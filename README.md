@@ -1,16 +1,15 @@
 <h1 align="center">🇭​​🇮​, ​🇫​​🇴​​🇱​​🇰​​🇸​❗
-  <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RwdXd4Z3k4djV4cjRkbWRwcHZtYWV5djlsaTVvcGM2N3Fyd3NhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.webp" width="200"/>
-    
+  <div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RwdXd4Z3k4djV4cjRkbWRwcHZtYWV5djlsaTVvcGM2N3Fyd3NhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.webp" width="200"/>    
 </div>
 </h1>
 
 <h4 align="center">My name is Zina, and I’m a Frontend Developer based in Yerevan.👩🏽‍💻</h4>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=lynchdiva&abbreviated=true&style=plastic&color=orange" alt="badges"/></div>
 
-<p>- 🌱 I'm currently working on pet-projects.</p>
-<p>- 🎓 I’m currently learning React and JS improvements.</p>
-<p>- 💬 Ask me about tech, chess, movies and hiking.</p>
+<p>- 🌱 I'm currently working on pet projects.</p>
+<p>- 🎓 I’m currently learning React and exploring the latest JavaScript features.</p>
+<p>- 💬 Ask me about tech, movies, or hiking!</p>
 <p>- 📫 How to reach me: attamaill@gmail.com</p>
 
 ---
