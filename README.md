@@ -2,7 +2,7 @@
   <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RwdXd4Z3k4djV4cjRkbWRwcHZtYWV5djlsaTVvcGM2N3Fyd3NhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.webp" width="200"/>    
 </div>
-  💫 About me
+  💫 About me:
 </h1>
 
 <h4 align="center">My name is Zina, and I’m a Frontend Developer based in Yerevan.👩🏽‍💻</h4>
