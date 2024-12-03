@@ -34,7 +34,7 @@
 ### 🚀 Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynchdiva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lynchdiva&theme=calm&border_radius=4&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lynchdiva&theme=calm&border_radius=4)](https://git.io/streak-stats)
 
 
 
