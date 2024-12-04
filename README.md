@@ -10,7 +10,7 @@
 
 <p>- 🌱 I'm currently working on pet projects.</p>
 <p>- 🎓 I’m currently learning React and exploring the latest JavaScript features.</p>
-<p>- 💬 Ask me about tech, movies, or hiking!</p>
+<p>- 💬 Ask me about tech, movies or hiking!</p>
 <p>- 📫 How to reach me: attamaill@gmail.com</p>
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
@@ -35,7 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynchdiva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lynchdiva&theme=noctis-minimus&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&card_width=844)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lynchdiva&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 
