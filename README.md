@@ -35,8 +35,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynchdiva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lynchdiva&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
 
 
 
