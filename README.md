@@ -9,7 +9,11 @@
 <h4 align="center">My name is Zina, and I’m a frontend developer.</h4>
 <p>👩🏽‍💻 I build web interfaces that solve real-world problems, follow clean code principles, and focus on writing maintainable solutions. I’m actively growing my skills and deepening my knowledge in frontend development.</p>
 <p>🚀 Currently, I’m part of the team at <a href=https://app.discovry.dev/new>Discovry!</a>, a commercial startup where I work with React and TypeScript. I’m involved in implementing core functionality, improving user experience and ensuring code quality. I'm learning from practical product challenges.</p>
-<p>- 📫 How to reach me: attamaill@gmail.com</p>
+
+### 📫 How to reach me:
+<a href="https://t.me/lynchdiva">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
