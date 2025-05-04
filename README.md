@@ -16,8 +16,6 @@
 <a href="https://www.linkedin.com">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<hr/>
 <!--<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>-->
 <h1>🤖 Technologies: <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a></h1>
 
