@@ -4,7 +4,7 @@
   <div align="center"><img src="https://komarev.com/ghpvc/?username=lynchdiva&abbreviated=true&style=plastic&color=orange" alt="badges"/></div>
 </div>
 </h1>
-<h2>⚡️ About me:</h2>
+<h3 align="center">⚡️ About me:</h3>
 <h4 align="center">My name is Zina, and I’m a frontend developer.</h4>
 <p>👩🏽‍💻 I build web interfaces that solve real-world problems, follow clean code principles, and focus on writing maintainable solutions. I’m actively growing my skills and deepening my knowledge in frontend development.</p>
 <p>🚀 Currently, I’m part of the team at <a href=https://app.discovry.dev/new>Discovry!</a>, a commercial startup where I work with React and TypeScript. I’m involved in implementing core functionality, improving user experience and ensuring code quality. I'm learning from practical product challenges.</p>
