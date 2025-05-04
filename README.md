@@ -13,6 +13,9 @@
 <a href="https://t.me/lynchdiva">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
@@ -31,7 +34,7 @@
 </div>
 
 
-<h1>🚀 Stats:</h1>
+<h1>⚙️ Stats:</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynchdiva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
