@@ -5,12 +5,11 @@
   💫 About me:
 </h1>
 
-<h4 align="center">My name is Zina, and I’m a Frontend Developer based in Yerevan.👩🏽‍💻</h4>
+<h4 align="center">My name is Zina, and I’m a frontend developer 👩🏽‍💻</h4>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=lynchdiva&abbreviated=true&style=plastic&color=orange" alt="badges"/></div>
 
-<p>- 🌱 I'm currently working on pet projects.</p>
-<p>- 🎓 I’m currently learning React and exploring the latest JavaScript features.</p>
-<p>- 💬 Ask me about tech, movies or hiking!</p>
+<p>I build web interfaces that solve real-world problems, follow clean code principles, and focus on writing maintainable solutions. I’m actively growing my skills and deepening my knowledge in frontend development.</p>
+<p>🌱 Currently, I’m part of the team at <a href=https://app.discovry.dev/new>Discovry!</a>, a commercial startup where I work with React and TypeScript. I’m involved in implementing core functionality, improving user experience and ensuring code quality. I'm learning from practical product challenges.</p>
 <p>- 📫 How to reach me: attamaill@gmail.com</p>
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
