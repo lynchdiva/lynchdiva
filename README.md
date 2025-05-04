@@ -7,7 +7,7 @@
 <h3 align="center">⚡️ About me:</h3>
 <h4 align="center">My name is Zina, and I’m a frontend developer.</h4>
 <p>👩🏽‍💻 I build web interfaces that solve real-world problems, follow clean code principles, and focus on writing maintainable solutions. I’m actively growing my skills and deepening my knowledge in frontend development. I enjoy what I do and like making things that are useful and easy to use.</p>
-<p>🚀 Currently, I’m part of the team at <a href=https://app.discovry.dev/new>Discovry!</a>, a commercial startup where I work with React and TypeScript. I’m involved in implementing core functionality, improving user experience and ensuring code quality. I'm learning from practical product challenges.</p>
+<p>🚀 Currently, I’m part of the team at <a href=https://app.discovry.dev/new>Discovry!</a>, a startup where I work with React and TypeScript. I’m involved in implementing core functionality, improving user experience and ensuring code quality. I also contribute to product discussions, help shape the functionality, and take part in exploring user needs. I'm learning from practical product challenges.</p>
 
 ### 📫 How to reach me:
 <a href="https://t.me/lynchdiva">
@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mobx/mobx-original.svg" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>&nbsp;    
