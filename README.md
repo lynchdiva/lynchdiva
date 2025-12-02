@@ -7,7 +7,7 @@
 <h3 align="center">⚡️ About me:</h3>
 <h4 align="center">My name is Zina and I’m a frontend developer.</h4>
 <p>👩🏽‍💻 I’m driven by the goal of creating web interfaces that solve practical problems and offer intuitive user experiences. I care about clean, maintainable code and enjoy turning ideas into thoughtful, working solutions. I’m continuously improving my skills and expanding my knowledge in frontend development.</p>
-<p>🚀 Currently, I’m part of the team at <a href=https://app.discovry.dev/new>Discovry</a>, an AI-powered startup where I work with React and TypeScript. I’m involved in implementing core functionality, improving user experience and ensuring code quality. I also contribute to product discussions, help shape the functionality, and take part in exploring user needs. I'm learning from practical product challenges.</p>
+<p>🚀 Currently, I’m part of the team at <a href=https://app.discovry.dev>Discovry</a>, an AI-powered startup where I work with React and TypeScript. I’m involved in implementing core functionality, improving user experience and ensuring code quality. I also contribute to product discussions, help shape the functionality, and take part in exploring user needs. I'm learning from practical product challenges.</p>
 
 ### 📫 How to reach me:
 <a href="https://t.me/lynchdiva">
